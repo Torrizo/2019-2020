@@ -1,0 +1,18 @@
+﻿生成启动时间为 2019/11/17 21:03:27。
+     1>项目“D:\bit\11.17（通讯录）\11.17（通讯录）\11.17（通讯录）.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         G:\编程\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt contact.c text.c
+         text.c
+     1>d:\bit\11.17（通讯录）\11.17（通讯录）\text.c(51): warning C4013: “SearchCountact”未定义；假设外部返回 int
+         contact.c
+     1>d:\bit\11.17（通讯录）\11.17（通讯录）\contact.c(81): warning C4129: “ ”: 不可识别的字符转义序列
+         正在生成代码...
+       Link:
+         G:\编程\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\bit\11.17（通讯录）\Debug\11.17（通讯录）.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\bit\11.17（通讯录）\Debug\11.17（通讯录）.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\bit\11.17（通讯录）\Debug\11.17（通讯录）.lib" /MACHINE:X86 Debug\contact.obj
+         Debug\text.obj
+         11.17（通讯录）.vcxproj -> D:\bit\11.17（通讯录）\Debug\11.17（通讯录）.exe
+     1>已完成生成项目“D:\bit\11.17（通讯录）\11.17（通讯录）\11.17（通讯录）.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.55
